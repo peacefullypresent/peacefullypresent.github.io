@@ -8,7 +8,7 @@ const POSTS_DIR = './posts';
 const DIST_DIR = './dist';
 const SITE_URL = 'https://peacefullypresent.github.io'; // Update this
 const SITE_TITLE = 'Personal Blog';
-const SITE_DESCRIPTION = 'Thoughts and writings';
+const SITE_DESCRIPTION = 'Musings on my Journey of Porn Addiction Recovery';
 
 // Ensure dist directory exists
 if (!fs.existsSync(DIST_DIR)) {
@@ -123,15 +123,11 @@ function generatePostPage(post) {
       </div>
     </article>
 
-    <!-- Comments Section -->
-    <div class="mt-12">
-      <script src="https://utteranc.es/client.js"
-              repo="peacefullypresent/peacefullypresent.github.io"
-              issue-term="pathname"
-              theme="preferred-color-scheme"
-              crossorigin="anonymous"
-              async>
-      </script>
+    <!-- Contact Section -->
+    <div class="mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
+      <p class="text-gray-600 dark:text-gray-400">
+        Have thoughts on this post? <a href="mailto:presentpeacefully@gmail.com" class="text-blue-600 dark:text-blue-400 hover:underline">Email me</a>
+      </p>
     </div>
   `;
 
