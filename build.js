@@ -6,7 +6,7 @@ const matter = require('gray-matter');
 // Configuration
 const POSTS_DIR = './posts';
 const DIST_DIR = './dist';
-const SITE_URL = 'https://YOUR_USERNAME.github.io/YOUR_REPO'; // Update this
+const SITE_URL = 'https://peacefullypresent.github.io'; // Update this
 const SITE_TITLE = 'Personal Blog';
 const SITE_DESCRIPTION = 'Thoughts and writings';
 
@@ -126,9 +126,9 @@ function generatePostPage(post) {
     <!-- Comments Section -->
     <div class="mt-12">
       <script src="https://utteranc.es/client.js"
-              repo="YOUR_USERNAME/YOUR_REPO"
+              repo="peacefullypresent/peacefullypresent.github.io"
               issue-term="pathname"
-              theme="github-light"
+              theme="preferred-color-scheme"
               crossorigin="anonymous"
               async>
       </script>
@@ -223,4 +223,3 @@ posts.forEach(generatePostPage);
 generateRSSFeed(posts);
 
 console.log('\nBuild complete! Run "npm run dev" to preview locally.');
-console.log('Remember to update SITE_URL in build.js and utterances repo in the comments section.');

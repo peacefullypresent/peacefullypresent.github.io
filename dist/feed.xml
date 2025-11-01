@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Blog</title>
-    <link>https://YOUR_USERNAME.github.io/YOUR_REPO</link>
+    <link>https://peacefullypresent.github.io</link>
     <description>Thoughts and writings</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Nov 2025 00:05:36 GMT</lastBuildDate>
-    <atom:link href="https://YOUR_USERNAME.github.io/YOUR_REPO/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 01 Nov 2025 02:20:34 GMT</lastBuildDate>
+    <atom:link href="https://peacefullypresent.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
       <title>Welcome to My Blog</title>
-      <link>https://YOUR_USERNAME.github.io/YOUR_REPO/welcome/</link>
-      <guid>https://YOUR_USERNAME.github.io/YOUR_REPO/welcome/</guid>
+      <link>https://peacefullypresent.github.io/welcome/</link>
+      <guid>https://peacefullypresent.github.io/welcome/</guid>
       <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
       <description>A brief introduction to this blog</description>
     </item>
