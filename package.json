@@ -8,15 +8,18 @@
     "tailwind": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --minify",
     "add-post": "node add-post.js"
   },
-  "keywords": ["blog", "static-site"],
+  "keywords": [
+    "blog",
+    "static-site"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "marked": "^12.0.0",
-    "gray-matter": "^4.0.3"
+    "gray-matter": "^4.0.3",
+    "marked": "^12.0.0"
   },
   "devDependencies": {
-    "tailwindcss": "^3.4.0",
-    "@tailwindcss/typography": "^0.5.10"
+    "@tailwindcss/typography": "^0.5.10",
+    "tailwindcss": "^3.4.0"
   }
 }
