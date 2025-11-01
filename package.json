@@ -1,0 +1,22 @@
+{
+  "name": "personal-blog",
+  "version": "1.0.0",
+  "description": "Personal blog with static site generation",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && python3 -m http.server 8000 -d dist",
+    "tailwind": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --minify",
+    "add-post": "node add-post.js"
+  },
+  "keywords": ["blog", "static-site"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^12.0.0",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "@tailwindcss/typography": "^0.5.10"
+  }
+}
