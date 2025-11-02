@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Personal blog with static site generation",
   "scripts": {
-    "build": "node build.js",
+    "build": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --minify && node build.js",
     "dev": "node build.js && python3 -m http.server 8000 -d dist",
-    "tailwind": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --minify",
     "add-post": "node add-post.js"
   },
   "keywords": [
