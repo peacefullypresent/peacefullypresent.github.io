@@ -1,8 +1,4 @@
----
-title: A ~~Fresh~~ Start
-date: 2025-10-31
-description: First Post
----
+# A ~~Fresh~~ Start
 
 Let me paint you a picture. 
 
@@ -46,7 +42,7 @@ Now, who am I? I'm 23 years old, grew up in the Midwest and come from a moderate
 
 My first exposure to porn was back in fifth grade, when I was ten years old. It really picked up the following year, when our family moved to a new town. Over the course of the next several posts, I'll go through my story, not because I'm special or anything, but because I learned some valuable lessons at different points in my life. Moreover, much of this writing is for myself as much as it might be for you. I still have a long way to go and I hope to keep learning everyday.
 
-I want to clarify that I don't necessarily view porn as an inherent evil from a moralistic stance, mostly from the observation that many people in the world use it without the same negative consequences, which I personally don't think makes those people bad. There is significant evidence that many adults <footnote> key word here is adults! </footnote> can use porn in a healthy manner (==cite==) in addition to some positive benefits for couples (==again cite==), which can't be ignored. That being said, I do think there are some ***seriously*** messed up things going on in that industry. Though masturbation is definitely a component of the problem, I think masturbation on its own is not necessarily harmful, especially when done in moderation, though there are many caveats here I've observed for myself, especially on the recovery journey.
+I want to clarify that I don't necessarily view porn as an inherent evil from a moralistic stance, mostly from the observation that many people in the world use it without the same negative consequences, which I personally don't think makes those people bad. There is certainly evidence that many adults <footnote> key word here is adults! </footnote> can use porn in a healthy manner in addition to some positive benefits for couples <footnote> Gouvernet, B., Rebelo, T., Sebbe, F.,  Hentati, Y., Yougbaré, S., Combaluzier, S., & Rezrazi, A. (2017). Is pornography pathogen by itself? Study of the role of attachment  profiles on the relationship between pornography and sexual  satisfaction. *Sexologies*, *26*(3), e27-e33. </footnote>, which can't be ignored. That being said, I do think there are some ***seriously*** messed up things going on in that industry. Though masturbation is definitely a component of the problem, I think masturbation on its own is not necessarily harmful, especially when done in moderation, though there are many caveats here I've observed for myself, especially on the recovery journey.
 
 ---
 
@@ -57,18 +53,3 @@ From my experiences, it is my firm belief that many years from now, society will
 For now, that's all I have. For anyone familiar with the pain and suffering associated with this addiction, I hope that this blog may have resonated with you. I'd love to hear from you and your thoughts. For anyone else reading this, I hope this can aid your understanding.
 
 Thank you for taking the time to read this. I wish all of you peace.
-
-
-
-
-## Some Resources
-
-www.wired.com/story/digital-social-media-safeguards-children-policy/
-
-https://www.protectyoungeyes.com/
-
-https://yourbrainonporn.com 
-
-https://techlockdown.com/
-
-https://www.afterbabel.com/p/how-protect-kids-from-porn
