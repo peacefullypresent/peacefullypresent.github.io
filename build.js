@@ -3,6 +3,12 @@ const path = require('path');
 const { marked } = require('marked');
 const matter = require('gray-matter');
 
+// Configure marked to support GFM (including strikethrough)
+marked.setOptions({
+  gfm: true,
+  breaks: false
+});
+
 // Configuration
 const POSTS_DIR = './posts';
 const DIST_DIR = './dist';
@@ -13,6 +19,37 @@ const SITE_DESCRIPTION = 'Musings on my Journey of Porn Addiction Recovery';
 // Ensure dist directory exists
 if (!fs.existsSync(DIST_DIR)) {
   fs.mkdirSync(DIST_DIR, { recursive: true });
+}
+
+// Process footnotes in markdown
+function processFootnotes(markdown) {
+  const footnotes = [];
+  let footnoteCounter = 0;
+
+  // Find and replace all <footnote>...</footnote> tags
+  const processedMarkdown = markdown.replace(/<footnote>(.*?)<\/footnote>/g, (match, footnoteText) => {
+    footnoteCounter++;
+    footnotes.push(footnoteText.trim());
+    return `<sup><a href="#footnote-${footnoteCounter}" id="footnote-ref-${footnoteCounter}">[${footnoteCounter}]</a></sup>`;
+  });
+
+  // If there are footnotes, append them to the markdown
+  if (footnotes.length > 0) {
+    const footnotesSection = '\n\n---\n\n## Footnotes\n\n' +
+      footnotes.map((text, index) => {
+        const num = index + 1;
+        return `<p id="footnote-${num}">${num}. ${text} <a href="#footnote-ref-${num}">↩</a></p>`;
+      }).join('\n');
+
+    return processedMarkdown + footnotesSection;
+  }
+
+  return processedMarkdown;
+}
+
+// Process strikethrough in plain text (for titles, etc.)
+function processStrikethrough(text) {
+  return text.replace(/~~(.*?)~~/g, '<del>$1</del>');
 }
 
 // Read all markdown files from posts directory
@@ -28,12 +65,13 @@ function getAllPosts() {
   const posts = files.map(file => {
     const content = fs.readFileSync(path.join(POSTS_DIR, file), 'utf8');
     const { data, content: markdown } = matter(content);
-    const html = marked(markdown);
+    const processedMarkdown = processFootnotes(markdown);
+    const html = marked(processedMarkdown);
     const slug = file.replace('.md', '');
 
     return {
       slug,
-      title: data.title || slug.replace(/-/g, ' '),
+      title: processStrikethrough(data.title || slug.replace(/-/g, ' ')),
       date: data.date || new Date().toISOString().split('T')[0],
       description: data.description || '',
       html,
