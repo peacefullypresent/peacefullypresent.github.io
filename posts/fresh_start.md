@@ -1,4 +1,8 @@
-# A ~~Fresh~~ Start
+---
+title: A ~~Fresh~~ Start
+date: 2025-10-31
+description: First Post
+---
 
 Let me paint you a picture. 
 
