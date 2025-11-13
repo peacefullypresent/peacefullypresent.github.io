@@ -42,7 +42,7 @@ I hope this can encourage more conversations and allow more people to share thei
 
 ## Who am I?
 
-Now, who am I? I'm 23 years old, grew up in the Midwest and come from a moderately traditional Indian Hindu family. I've graduated from college and recently graduated with a Master's degree in the field of AI.  <footnote> I've decided to keep the blog anonymous for now, though this may change in the future </footnote>. I've also had a porn addiction for the past 12 years of my life, something I've been seriously trying to quit for many of those years. 
+Now, who am I? I'm in my early 20s, grew up in the Midwest and come from a moderately traditional Indian family. I've graduated from college and recently graduated with a Master's degree in the field of AI.  <footnote> I've decided to keep the blog anonymous for now, though this may change in the future </footnote>. I've also had a porn addiction for the past 12 years of my life, something I've been seriously trying to quit for many of those years. 
 
 My first exposure to porn was back in fifth grade, when I was ten years old. It really picked up the following year, when our family moved to a new town. Over the course of the next several posts, I'll go through my story, not because I'm special or anything, but because I learned some valuable lessons at different points in my life. Moreover, much of this writing is for myself as much as it might be for you. I still have a long way to go and I hope to keep learning everyday.
 
@@ -52,7 +52,7 @@ I want to clarify that I don't necessarily view porn as an inherent evil from a 
 
 ## Before I end
 
-From my experiences, it is my firm belief that many years from now, society will look back aghast and completely horrified with how we have allowed things to have been taken so far, both in the direction of technology and the Internet and in what we did (and most importantly, didn't do) to change it. Primarily the tech industry and the adult industry (though others as well) will have caused a disastrous effect in not only the productivity of the next generation, but also on their life, liberty, and pursuit of happiness. I'll share more thoughts on this in the future. 
+From my experiences, it is my firm belief that many years from now, society will look back aghast and completely horrified with how we have allowed things to have been taken so far, both in the direction of technology and the Internet and in what we did (and more importantly, didn't do) to change it. Primarily the tech industry and the adult industry (though others as well) will have caused a disastrous effect in not only the productivity of the next generation, but also on their life, liberty, and pursuit of happiness. I'll share more thoughts on this in the future. 
 
 For now, that's all I have. For anyone familiar with the pain and suffering associated with this addiction, I hope that this blog may have resonated with you. I'd love to hear from you and your thoughts. For anyone else reading this, I hope this can aid your understanding.
 
