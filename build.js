@@ -13,8 +13,8 @@ marked.setOptions({
 const POSTS_DIR = './posts';
 const DIST_DIR = './dist';
 const SITE_URL = 'https://peacefullypresent.github.io'; // Update this
-const SITE_TITLE = 'Personal Blog';
-const SITE_DESCRIPTION = 'Musings on my Journey of Porn Addiction Recovery';
+const SITE_TITLE = 'Personal Journey of Porn Addiction Recovery';
+const SITE_DESCRIPTION = 'Musings along the way';
 
 // Ensure dist directory exists
 if (!fs.existsSync(DIST_DIR)) {
