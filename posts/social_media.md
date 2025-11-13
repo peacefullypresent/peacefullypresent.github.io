@@ -1,6 +1,6 @@
 ---
 title: The Role of Social Media and Tech
-date: 2025-10-31
+date: 2025-11-13
 description: Where do triggers and urges come from?
 ---
 
