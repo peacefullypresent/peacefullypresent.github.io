@@ -5,9 +5,17 @@
     <link>https://peacefullypresent.github.io</link>
     <description>Musings along the way</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Nov 2025 17:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 04:21:10 GMT</lastBuildDate>
     <atom:link href="https://peacefullypresent.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Blocking Software</title>
+      <link>https://peacefullypresent.github.io/blockers/</link>
+      <guid>https://peacefullypresent.github.io/blockers/</guid>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+      <description>Thoughts on the role of blockers and some ones I use</description>
+    </item>
+  
     <item>
       <title>The Role of Social Media and Tech</title>
       <link>https://peacefullypresent.github.io/social_media/</link>
