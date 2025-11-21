@@ -1,6 +1,6 @@
 ---
 title: Blocking Software
-date: 2025-11-13
+date: 2025-11-20
 description: Thoughts on the role of blockers and some ones I use
 ---
 
