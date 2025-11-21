@@ -1,4 +1,12 @@
+---
+title: Blocking Software
+date: 2025-11-13
+description: Thoughts on the role of blockers and some ones I use
+---
+
+
 EP: 5, Sobriety: 0
+
 
 I'm going to start including my emotional pain and sobriety days for the day I post this. Hopefully provides some context for the journey ahead. I've been on a rough streak this week, but I still hope today's topic helps.
 
