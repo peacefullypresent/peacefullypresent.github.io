@@ -1,5 +1,5 @@
 ---
-title: A Re-run at Blockers
+title: A Re-run at Blockers & Childhood Triggers
 date: 2025-11-24
 description: Continued observations on using blockers appropriately
 ---
