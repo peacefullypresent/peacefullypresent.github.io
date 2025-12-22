@@ -1,7 +1,7 @@
 ---
-title: Blocking Software
+title: Honesty and History
 date: 2025-12-22
-description: Honesty and History
+description: Who knew a road trip could reveal so much?
 ---
 
 A couple weeks past when I'd hoped to make this post, but life got in the way. A series of personal trips and other professional events conspired to make this post nice and juicy, with some eventful updates. If I had to summarize the updates in my recovery from the past few weeks in one word, it would be ***honesty***. 
