@@ -1,0 +1,19 @@
+---
+title: Relief and Relapse
+date: 2025-12-22
+description: The power of accountability and the realistic nature of progress
+---
+
+EP: 8, Sobriety: 0
+
+Before I get into where I left off from last week in the story, I wanted to share some updates from this past week, which I want to briefly mention each week. After opening up to my parents with honesty and holding myself accountable to them by sharing whenever I relapse to them, I can sense some shifts inside for sure. Having the support of another voice committed to my growth is a huge catalyst for change, which I'm very grateful for. I've been having daily calls where I share updates from the past day and also check-in on them. This component of shifting the window of focus to others rather than only myself (not just *my* improvement, but the improvement of everyone else around me as well) has been very helpful. 
+
+That being said, it's still been challenging this past week. Some careless mistakes in my recovery, including leaving boundaries open in vulnerable times, being part of the recovery process as well. When these happen, I tend to really double down on the mistakes and try to find ways to prevent them moving forward, which can be healthy but also induces a lot of anxiety in me. This carries over from academics, where I would mentally chastise myself whenever I made silly mistakes, as well as from this addiction over the course of many, many years. Each time I thought over some change, it simply would backfire or not change my situation, and over time, this bred fear of not doing enough or not knowing how much was enough. I overthink a lot to this day, and it's something I'm still working on.
+
+Anyways, onto where I left off from last time.
+
+I was sitting in the passenger seat. After finding a nice gap in the conversation, my mind just felt ready to say something. I was literally sweating but the rational part of my mind somehow knew it had to come out now. The circumstances felt appropriate. I felt a deeper connection and felt *safe* sharing this repressed part of me, finally. Now, the next step of getting the words out of my mouth. Quite literally, I sat there for 10 minutes trying to figure out what words I needed to string together to say what I wanted to say. After two or three attempts of trying to heave the words out of my mouth, it finally came across, and to my relief, my dad patiently began to listen. At this point, though I was scared of being so vulnerable, it became easier, and I conveyed all the emotions across. We had a deep conversation for the next couple hours as I tried to explain to him how I felt that both him and my mom had left me to deal with this on my own despite my insistence years earlier that this was an issue I needed help with. He answered the question that I'd desperately needed to hear for the past several years, and even though it didn't solve everything, something within me had healed that day. 
+
+This topic was covered from various angles over the course of the next few weeks, and fortunately, I got the opportunity to share everything with my mom in that time as well, as she came to visit. Since that point, there were many relapses, but the difference this time was that I finally could share more freely about my struggles and victories, without always hiding behind a barrier that I wouldn't let anyone pass through. There have been many moments of judgment, but this often comes from a naÏvety about the nature of this addiction rather than a lack of caring. Explaining to them while also being open-minded to suggestions, even if they haven't gone through it themselves, really seems to help.
+
+I'm committed to honesty and this journal perhaps is another form of this.
